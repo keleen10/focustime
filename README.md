@@ -54,19 +54,3 @@ Focus Time is an Expo application designed to help users concentrate on their ta
 
 If you encounter any issues while setting up or running the app, please refer to the [Expo Documentation](https://docs.expo.dev/) or create an issue in the GitHub repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information.
-
-## Acknowledgements
-
-- Thanks to the Expo team for providing an excellent development environment.
-- Special thanks to all the contributors who have helped improve this project.
-
----
-
-Feel free to customize this README further to better fit the specific details of your project and repository structure.
