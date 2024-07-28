@@ -37,7 +37,7 @@ Focus Time is an Expo application designed to help users concentrate on their ta
    ```
 4. **Run the App**:
    ```bash
-   expo start
+   npx expo start
    ```
 
 ### Running on a Device or Simulator
